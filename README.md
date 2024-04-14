@@ -1,4 +1,4 @@
-# cwlt.github.io
+# sarah.github.io
 
 The purpose of this project is to provide a simple jumping-off point for a Jekyll-based github.io site.
 
