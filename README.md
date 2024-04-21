@@ -40,7 +40,7 @@ The purpose of this project is to provide a simple jumping-off point for a Jekyl
  If you have Jekyll installed, you can run `jekyll serve` on the terminal from the project directory.
  Then, copy and paste the server address that is reported into your browser to view a locally-hosted version of your site.
  
- ## Authorship
+ ## Original Authorship
  
  Matthew Andres Moreno
  
