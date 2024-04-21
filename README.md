@@ -1,8 +1,5 @@
 # sarah.github.io
 
-The purpose of this project is to provide a simple jumping-off point for a Jekyll-based github.io site.
-
-
 ## Prerequisites
   * git (a tutorial on installing git can be found [here](https://www.atlassian.com/git/tutorials/install-git))
   * Jekyll (optional; get it [here](https://jekyllrb.com/docs/installation/)
